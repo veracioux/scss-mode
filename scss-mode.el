@@ -31,6 +31,7 @@
 (require 'derived)
 (require 'compile)
 (require 'flymake)
+(require 'flymake-proc)
 
 (defgroup scss nil
   "Scss mode"
